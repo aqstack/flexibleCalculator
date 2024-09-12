@@ -10,6 +10,10 @@ A simple, extensible Java-based calculator that supports basic arithmetic operat
 - **Inversion of Control (IoC)**: Supports external management of operation strategies through dependency injection.
 - **Error Handling**: Throws `IllegalArgumentException` for unsupported operations.
 
+## UML diagram
+
+![uml-diagram](uml.png)
+
 ## Usage
 
 ### Example: Basic Calculation
